@@ -1,7 +1,7 @@
 ### Hello! See what am I working on. 🖐 
 
-- ✍ Currently working on...   C++ skills
-- 🎯 Passionate about...       Machine Learning and Data Science
+- ✍ Currently working on...   Spring Boot, React, Kotlin
+- 🎯 Passionate about...       Technologies
 - ✌ Skills ...                Python, Java , Flask
 - 😍 Hobbies ...              Exploring psycology, philosophic and entrepreneurial contents
 - 💬 Ask me about ...         Anything
