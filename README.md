@@ -32,7 +32,6 @@ Tools I use: <br>
 <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="./logos/visualstudiocode.svg" />
 <img align="left" title="Git" alt="Git" width="26px" src="./logos/git.svg" />
 <img align="left" title="GitHub" alt="GitHub" width="26px" src="./logos/github.svg" />
-<img align="left" title="IntelliJ" alt="IntelliJ" width="26px" src="./logos/intellij.svg" />
 </h3>
 
 <br>
