@@ -1,11 +1,10 @@
 ### Hello! See what am I working on. 🖐 
 
-- ✍ Currently working on...   Spring Boot, React, Kotlin
+- ✍ Currently working on...   Java, Spring Boot, React
 - 🎯 Passionate about...       Technologies
-- ✌ Skills ...                Python, Java , Flask
-- 😍 Hobbies ...              Exploring psycology, philosophic and entrepreneurial contents
-- 💬 Ask me about ...         Anything
-- 📩 Mail me ...              adityavishwakarma013@gmail.com
+- ✌ Skills ...                Java, Spring boot , Spring thymeleaf, Docker 
+- 🧑‍💻 Job ...                   ZEE5 OTT
+- 📩 Mail me ...               adityavishwakarma013@gmail.com
 
 
 <h3>
@@ -23,11 +22,7 @@ Connect with me: <br>
   
 Programming Languages I work with: <br>
 
-<img align="left" title="python" alt="python" width="26px" src="./logos/python.svg" />
-<img align="left" title="C" alt="C" width="26px" src="./logos/c.svg" />
-<img align="left" title="C++" alt="C++" width="26px" src="./logos/cplusplus.svg" />
-<img align="left" title="Java" alt="Java" width="26px" src="./logos/java.svg" />
-  
+<img align="left" title="Java" alt="Java" width="26px" src="./logos/java.svg" />  
 <br>
 <br>
   
@@ -35,10 +30,9 @@ Programming Languages I work with: <br>
 Tools I use: <br>
 
 <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="./logos/visualstudiocode.svg" />
-<img align="left" title="Discord" alt="Discord" width="26px" src="./logos/discord.svg" />
 <img align="left" title="Git" alt="Git" width="26px" src="./logos/git.svg" />
 <img align="left" title="GitHub" alt="GitHub" width="26px" src="./logos/github.svg" />
-<img align="left" title="Android" alt="Android" width="26px" src="./logos/android.svg" />
+<img align="left" title="IntelliJ" alt="IntelliJ" width="26px" src="./logos/intellij.svg" />
 </h3>
 
 <br>
