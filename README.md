@@ -1,8 +1,8 @@
 ### Hello! See what am I working on. 🖐 
 
-- ✍ Currently working on...   Java, Spring Boot, React
+- ✍ Currently working on...   Java, Spring Boot
 - 🎯 Passionate about...       Technologies
-- ✌ Skills ...                Java, Spring boot , Spring thymeleaf, Docker 
+- ✌ Skills ...                Java, Spring boot, Node Js, Spring thymeleaf, Docker 
 - 🧑‍💻 Job ...                   ZEE5 OTT
 - 📩 Mail me ...               adityavishwakarma013@gmail.com
 
